@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(eload, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: eload (similar: reload, loadp, bspReload)[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid project ID: eload[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: eload (similar: onUnload, onLoad, testLoader)[0m
+[0m[[0m[31merror[0m] [0m[0meload[0m
+[0m[[0m[31merror[0m] [0m[0m     ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
